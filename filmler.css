@@ -11,13 +11,13 @@
 }
 header{
     text-align: center;
-    background-color: blanchedalmond;
-    color: rgb(135, 182, 15);
+    background-color: darkolivegreen;
+    color: rgb(135, 21, 200);
     padding: 20px;
 }
 
 h2{
-    color: brown;
+    color: aqua;
     font-family: fantasy;
 }
 li{
@@ -33,6 +33,6 @@ li{
 
 .yan p:hover{
     text-decoration: underline;
-    background-color: blue;
-    color: azure;
+    background-color: red;
+    color: coral;
 }
